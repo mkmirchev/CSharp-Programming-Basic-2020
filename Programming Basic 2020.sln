@@ -49,31 +49,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwimmingRecords", "Swimming
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scholarship", "Scholarship\Scholarship.csproj", "{E69A41D9-DB1F-4BFD-9324-C7F93F0BB7B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayOfWeek.csproj", "{E2410586-D72D-4C86-BB89-17EA98139951}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfWeek", "DayOfWeek\DayOfWeek.csproj", "{E2410586-D72D-4C86-BB89-17EA98139951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeekVer2", "DayOfWeekVer2\DayOfWeekVer2.csproj", "{5D0E3499-00AC-4942-A943-569B3913A9D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfWeekVer2", "DayOfWeekVer2\DayOfWeekVer2.csproj", "{5D0E3499-00AC-4942-A943-569B3913A9D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAnimal", "ClassAnimal\ClassAnimal.csproj", "{DCCAC65C-8E3B-4FF1-A91D-5A1C7252E629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassAnimal", "ClassAnimal\ClassAnimal.csproj", "{DCCAC65C-8E3B-4FF1-A91D-5A1C7252E629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTitles", "PersonalTitles\PersonalTitles.csproj", "{9E8AF448-D555-43D5-8EC1-27165A19DA6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalTitles", "PersonalTitles\PersonalTitles.csproj", "{9E8AF448-D555-43D5-8EC1-27165A19DA6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallShop", "SmallShop\SmallShop.csproj", "{0D29B69C-F80C-4A76-BA9D-5427BE0CCAA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallShop", "SmallShop\SmallShop.csproj", "{0D29B69C-F80C-4A76-BA9D-5427BE0CCAA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOfNumbers-100to100", "ArrayOfNumbers-100to100\ArrayOfNumbers-100to100.csproj", "{2B52AF8D-77D8-481C-853D-EF543598AE97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOfNumbers-100to100", "ArrayOfNumbers-100to100\ArrayOfNumbers-100to100.csproj", "{2B52AF8D-77D8-481C-853D-EF543598AE97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopWorkingTime", "ShopWorkingTime\ShopWorkingTime.csproj", "{E27DACD4-CD3D-424E-83AC-D822CFC84E61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopWorkingTime", "ShopWorkingTime\ShopWorkingTime.csproj", "{E27DACD4-CD3D-424E-83AC-D822CFC84E61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaTickets", "CinemaTickets\CinemaTickets.csproj", "{A6569FCF-F0FB-4784-8847-EF0D200DC5D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaTickets", "CinemaTickets\CinemaTickets.csproj", "{A6569FCF-F0FB-4784-8847-EF0D200DC5D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitOrVegetable", "FruitOrVegetable\FruitOrVegetable.csproj", "{EDA4136D-1349-4DD4-A26C-878F4E1EB8A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitOrVegetable", "FruitOrVegetable\FruitOrVegetable.csproj", "{EDA4136D-1349-4DD4-A26C-878F4E1EB8A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidNumber", "InvalidNumber\InvalidNumber.csproj", "{2C374C44-42DF-44DD-9F66-C47D4695450C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvalidNumber", "InvalidNumber\InvalidNumber.csproj", "{2C374C44-42DF-44DD-9F66-C47D4695450C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop", "FruitShop\FruitShop.csproj", "{14FED827-066E-4BFA-913F-644FFA72759E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitShop", "FruitShop\FruitShop.csproj", "{14FED827-066E-4BFA-913F-644FFA72759E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeCommision", "TradeCommision\TradeCommision.csproj", "{A99C2CC2-03C3-4142-ACBC-8E64737B0E31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCommision", "TradeCommision\TradeCommision.csproj", "{A99C2CC2-03C3-4142-ACBC-8E64737B0E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiVacation", "SkiVacation\SkiVacation.csproj", "{4B5B09C2-DD39-4C13-8539-4AE7985777E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiVacation", "SkiVacation\SkiVacation.csproj", "{4B5B09C2-DD39-4C13-8539-4AE7985777E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{672CA999-F9F2-4BD2-B752-B62B487E9B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{ECD03050-B5A6-4B4D-A6BC-39C847DCF2F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +229,14 @@ Global
 		{4B5B09C2-DD39-4C13-8539-4AE7985777E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B5B09C2-DD39-4C13-8539-4AE7985777E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B5B09C2-DD39-4C13-8539-4AE7985777E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672CA999-F9F2-4BD2-B752-B62B487E9B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672CA999-F9F2-4BD2-B752-B62B487E9B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672CA999-F9F2-4BD2-B752-B62B487E9B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672CA999-F9F2-4BD2-B752-B62B487E9B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD03050-B5A6-4B4D-A6BC-39C847DCF2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD03050-B5A6-4B4D-A6BC-39C847DCF2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD03050-B5A6-4B4D-A6BC-39C847DCF2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD03050-B5A6-4B4D-A6BC-39C847DCF2F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
