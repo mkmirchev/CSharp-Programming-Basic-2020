@@ -10,7 +10,6 @@ namespace BonusPoints
             double points = double.Parse(Console.ReadLine());
             double bonusPts = 0;
             double pointsAfterFirstBonus = 0;
-            double additionalBonusPts = 0;
             double pointsAfterSecondBonus = 0;
             //calculating bonus points
             if (points <= 100)
