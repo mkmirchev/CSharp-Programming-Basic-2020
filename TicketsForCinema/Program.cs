@@ -58,7 +58,6 @@ namespace TicketsForCinema
             Console.WriteLine("{0:F2}% student tickets.", (studentTicketCount * 100.0) / allmoviesTickets);
             Console.WriteLine("{0:F2}% standard tickets.", (standartTicketCount * 100.0) / allmoviesTickets);
             Console.WriteLine("{0:F2}% kids tickets.", (kidTicketCount * 100.0) / allmoviesTickets);
-
         }
     }
 }
